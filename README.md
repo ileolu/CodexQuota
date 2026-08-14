@@ -1,2 +1,11 @@
 # CodexQuota
-check Codex/ChatGPT Work quota
+
+原生 macOS 菜单栏组件，读取 ChatGPT/Codex 自带的本地只读账户接口。
+
+- 菜单栏显示 Codex 每周剩余额度百分比
+- 点击显示套餐、已用/剩余比例、重置时间、点数余额和 Token 统计
+- 启动时刷新，此后每 5 分钟自动刷新
+- 不读取或保存登录密码，不抓取网页
+
+需要已安装 ChatGPT/Codex，并在其中登录账户。
+
