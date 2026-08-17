@@ -9,3 +9,6 @@
 
 需要已安装 ChatGPT/Codex，并在其中登录账户。
 
+## 软件截图
+
+![CodexQuota 软件截图](docs/screenshots/quota.png)
