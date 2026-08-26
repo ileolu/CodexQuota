@@ -11,4 +11,8 @@
 
 ## 软件截图
 
-![CodexQuota 软件截图](docs/screenshots/quota.png)
+![额度概览](docs/sceenshots/1.png)
+
+![额度详情](docs/sceenshots/2.png)
+
+![菜单栏显示](docs/sceenshots/3.png)
