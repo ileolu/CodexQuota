@@ -11,8 +11,8 @@
 
 ## 软件截图
 
-![额度概览](docs/sceenshots/1.png)
+![额度概览](docs/screenshots/1.png)
 
-![额度详情](docs/sceenshots/2.png)
+![额度详情](docs/screenshots/2.png)
 
-![菜单栏显示](docs/sceenshots/3.png)
+![菜单栏显示](docs/screenshots/3.png)
